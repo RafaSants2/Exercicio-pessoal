@@ -102,12 +102,13 @@ main  h1 {
     box-shadow: 1px 1px 9px rgba(0, 0, 0, 0.281);
     max-width: 600px;
     
+    
 }
 
 main img {
     margin: auto;
     max-width: 280px;
-    height: auto;
+    width: 100%;
     background-color: rgb(247, 247, 168);
     border-radius: 5px;
     display: block;

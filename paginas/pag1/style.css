@@ -107,6 +107,7 @@ main  h1 {
 main img {
     margin: auto;
     max-width: 280px;
+    width: 100%;
     height: auto;
     background-color: rgb(247, 247, 168);
     border-radius: 5px;
