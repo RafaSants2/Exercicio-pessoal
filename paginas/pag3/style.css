@@ -107,7 +107,6 @@ main  h1 {
 main img {
     margin: auto;
     max-width: 280px;
-    padding: 15px 20px 25px 20px;
     height: auto;
     background-color: rgb(247, 247, 168);
     border-radius: 5px;
